@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno&family=Raleway&display=swap');
+
+* {
+    font-family: 'Raleway', sans-serif;
+    }
+
+.light-bg {
+    background: linear-gradient(90deg, rgba(245, 246, 247, 1) 0%, rgba(8, 215, 242, 1) 100%);
+    color: black;
+}
+
+.dark-bg {
+    background: linear-gradient(90deg, rgba(40,42,80,1) 0%, rgba(17,25,124,1) 100%);
+    color: white;
+}
+
+.navbar-brand {
+    font-family: 'MuseoModerno', cursive;
+}
+
+.lighttext{
+    text-shadow: 1px 1px 2px blue;
+    color: rgb(137, 148, 221);
+}
+
+.darktext {
+    text-shadow: 1px 1px 3px rgb(245, 248, 249);
+    color: rgb(79, 79, 157);
+}
